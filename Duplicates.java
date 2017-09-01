@@ -35,4 +35,3 @@ public class Duplicates {
         }
     }
 }
-git fatal error
