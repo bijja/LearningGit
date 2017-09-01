@@ -19,6 +19,7 @@ public class Duplicates {
            }
 }
 }
+//comment is added......
         int[] output = new int[j+1];
         for(int k=0; k<output.length; k++){
             output[k] = input[k];
