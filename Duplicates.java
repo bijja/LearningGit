@@ -33,6 +33,7 @@ public class Duplicates {
         int[] output = removeDuplicates(input1);
         for(int i:output){
             System.out.print(i+" ");
+			 System.out.print(i+" "+"I am bala added new YSSO");
         }
     }
 }
