@@ -24,7 +24,7 @@ public class Duplicates {
          
         return output;
     }
-     //Added main method umesh
+     
     public static void main(String a[]){
         int[] input1 = {2,3,6,6,8,9,10,10,10,12,12};
         int[] output = removeDuplicates(input1);
