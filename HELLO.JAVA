@@ -26,7 +26,7 @@ public class Duplicates {
     }
      
     public static void main(String a[]){
-        int[] input1 = {2,3,6,6,8,9,10,10,10,12,12,1231};
+        int[] input1 = {2,3,6,6,8,9,10,10,10,12,12,1,2.231};
         int[] output = removeDuplicates(input1);
         for(int i:output){
             System.out.print(i+" ");
